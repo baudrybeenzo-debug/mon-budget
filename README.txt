@@ -11,4 +11,4 @@ Fonctions : budget mensuel, dépenses et revenus, catégories personnalisables (
 
 IMPORTANT : les données sont conservées dans le stockage local du navigateur/appareil. Elles ne sont pas synchronisées entre iPhone et iPad. Utiliser régulièrement Exporter JSON.
 
-Mise à jour : le service worker utilise le cache mon-budget-v3. Si l'ancienne interface persiste, fermer l'application et recharger le site dans Safari. Ne pas effacer les données du site avant d'avoir exporté une sauvegarde.
+Mise à jour : le service worker utilise le cache mon-budget-v6. Si l'ancienne interface persiste, fermer l'application et recharger le site dans Safari. Ne pas effacer les données du site avant d'avoir exporté une sauvegarde.
